@@ -8,4 +8,5 @@ public class CalculatorTest extends TestCase {
     public void testBad() throws Exception {
         Assert.fail("Some bad test has failed");
     }
+
 }
