@@ -16,8 +16,4 @@ public class CalculatorTest extends TestCase {
         Assert.fail("Some bad test has failed");
     }
 
-    public void testVeryBad() throws Exception {
-        Assert.fail("Some very bad test has failed");
-    }
-
 }
